@@ -4,7 +4,7 @@ from streamlit_chat import message
 import openai
 
 #设置openai_key
-openai.api_key ="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"
+openai.api_key ="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"
 
 #记录对话 ###因为streamlit的原理没能成功
 # messages=[
